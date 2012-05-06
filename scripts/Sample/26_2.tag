@@ -1,0 +1,18 @@
+Categories	:
+Top/Reference/Education/Methods_and_Theories/Learning_Theories/Inquiry_Based_Learning/Instructional_Models
+Top/Reference/Education/Methods_and_Theories/Learning_Theories/Problem-Based_Learning
+Top/Computers/Programming/Languages/Constraint
+Top/Science/Math/Recreations/Competitions/Online_Contests
+Top/Science/Math/Recreations/Competitions/Training/Problem_Archives
+Top/Science/Math/Recreations/Competitions/Training
+Top/Computers/Internet/Domain_Names/For_Sale_or_Auction
+Top/Computers/Internet/Domain_Names/For_Sale_or_Auction/Mass_Sellers
+Keywords	:
+Problem solving
+Problem domain
+Application domain
+Problem statement
+Solution
+Math
+Recreations
+Education

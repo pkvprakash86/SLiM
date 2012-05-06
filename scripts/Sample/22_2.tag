@@ -1,0 +1,18 @@
+Categories	:
+Top/Business/Electronics_and_Electrical/Components/Semiconductors
+Top/Business/Electronics_and_Electrical/Components/Semiconductors/Tools_and_Equipment
+Top/Business/Electronics_and_Electrical/Optoelectronics_and_Fiber/Lasers
+Top/Business/Electronics_and_Electrical/Components
+Top/Business/Electronics_and_Electrical/Optoelectronics_and_Fiber
+Top/Business/Electronics_and_Electrical/Components/Semiconductors/Contract_Manufacturing
+Top/Science/Physics/Optics/Lasers
+Top/Business/Electronics_and_Electrical/Components/Semiconductors/Materials_and_Supplies
+Keywords	:
+Laser
+Semiconductor
+Chemical vapor deposition
+Research
+Thin film
+Business
+Electronics and Electrical
+Components

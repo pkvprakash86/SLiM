@@ -1,0 +1,1 @@
+Principal Investigators proposed to study Hagia Sophia, a historical structure built in the 14th Century. Numerical and experimental analyses are used to model the dynamic responses. Stiffness degradation is to be quantified. Computationally intensive inverse analysis is to be used to delineate material properties.
